@@ -161,7 +161,7 @@ page = st.sidebar.radio(
 )
 
 st.sidebar.markdown("<br><br>", unsafe_allow_html=True)
-st.sidebar.markdown('<div class="sidebar-footer">👤 Platform Engineer: <b>Kunal Ahire</b></div>', unsafe_allow_html=True)
+st.sidebar.markdown('<div class="sidebar-footer">👤 Platform Engineer: <b>Abhishek Ahire</b></div>', unsafe_allow_html=True)
 
 # Shared Dark Theme Chart Layout
 chart_layout = dict(
