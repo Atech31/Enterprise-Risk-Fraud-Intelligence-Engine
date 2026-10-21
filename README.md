@@ -1,13 +1,13 @@
-# 🛡️ Enterprise Risk & Fraud Intelligence Engine (ShieldRisk OS)
+#  Enterprise Risk & Fraud Intelligence Engine (ShieldRisk OS)
 
 A production-ready Financial Fraud Analytics & Telemetry Engine built to evaluate real-time transaction velocities, identify geographical anomalies, uncover coordinated fraud rings using Graph Network Analysis, and simulate threshold-based loss trade-offs.
 
-## 🚀 Live Demo
+##  Live Demo
 **Live Streamlit Application:** [https://enterprisefraud.streamlit.app/](https://enterprisefraud.streamlit.app/)
 
 ---
 
-## 🛠️ Architecture & Features
+##  Architecture & Features
 
 1. **Executive Risk Telemetry**
    - Live transaction volume monitoring, fraud rate calculation, and at-risk capital quantification.
@@ -27,7 +27,7 @@ A production-ready Financial Fraud Analytics & Telemetry Engine built to evaluat
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 - **Language**: Python 3.10+
 - **Frontend / UI**: Streamlit, Custom Dark SaaS CSS (`Plus Jakarta Sans`)
 - **Data Engineering**: Pandas, NumPy
@@ -36,7 +36,7 @@ A production-ready Financial Fraud Analytics & Telemetry Engine built to evaluat
 
 ---
 
-## 🔧 Local Setup & Run
+##  Local Setup & Run
 
 1. Clone the repository:
    ```bash
